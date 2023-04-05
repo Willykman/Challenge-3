@@ -11,12 +11,9 @@
 
 ## Analyze the data.
 
-## Create your analysis report which includes;
+## Create an analysis report which includes;
 
-    # Choose the Columns of Data
-    
-    # Get the Summary Statistics and Plot the Data
-    
-    # Focus The Analysis on Specific Dates
-    
-    # Calculate the Arbitrage Profits
+# Choose the Columns of Data
+# Get the Summary Statistics and Plot the Data
+# Focus The Analysis on Specific Dates  
+# Calculate the Arbitrage Profits
