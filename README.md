@@ -1,22 +1,22 @@
     # Challenge-3
-    **Challenge #3**
+    ** Challenge #3 **
 
-###This Challenge consists of the following steps:
+### This Challenge consists of the following steps:
 
-##Create your GitHub repository.
+## Create your GitHub repository.
 
-##Collect the data.
+## Collect the data.
 
-##Prepare the data.
+## Prepare the data.
 
-##Analyze the data.
+## Analyze the data.
 
-##Create your analysis report which includes;
+## Create your analysis report which includes;
 
-    #Choose the Columns of Data
+    # Choose the Columns of Data
     
-    #Get the Summary Statistics and Plot the Data
+    # Get the Summary Statistics and Plot the Data
     
-    #Focus The Analysis on Specific Dates
+    # Focus The Analysis on Specific Dates
     
-    #Calculate the Arbitrage Profits
+    # Calculate the Arbitrage Profits
