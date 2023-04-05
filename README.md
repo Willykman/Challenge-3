@@ -13,7 +13,8 @@
 
 ## Create an analysis report which includes;
 
-# Choose the Columns of Data
+'''diff
+! Choose the Columns of Data
 # Get the Summary Statistics and Plot the Data
 # Focus The Analysis on Specific Dates  
 # Calculate the Arbitrage Profits
